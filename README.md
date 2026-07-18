@@ -30,3 +30,6 @@ All of this will be done using VULTR (Cloud).
 - Go over how to investigate alerts (High level)
 
 ## Progress Log
+## Day 1
+- Created logical diagram of lab architecture (draw.io + PNG export)
+- Set up VULTR account
